@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkunwarcg" alt="shivamkunwarcg" /></a> </p>
 
-- 🔭 I’m currently working on [MESSMATE](https://github.com/kunwarshivamjsr/MESSMATE) [RoomKhidki](https://github.com/kunwarshivamjsr/RoomKhidki)
+- 🔭 I’m currently working on [MESSMATE](https://github.com/kunwarshivamjsr/MESSMATE) and [RoomKhidki](https://github.com/kunwarshivamjsr/RoomKhidki)
 
 - 🌱 I’m currently learning **BlockChain And CyberSecurity.**
 
