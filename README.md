@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar Kunwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamkunwarcg&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkunwarcg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamjsrcg&label=Profile%20views&color=0e75b6&style=flat" alt="shivamjsrcg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkunwarcg" alt="shivamkunwarcg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamjsrcg" alt="shivamjsrcg" /></a> </p>
 
 - 🔭 I’m currently working on [MESSMATE](https://github.com/kunwarshivamjsr/MESSMATE) and [RoomKhidki](https://github.com/kunwarshivamjsr/RoomKhidki)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kunwarshivamjsr.github.io/MyPortfolio/](https://kunwarshivamjsr.github.io/MyPortfolio/)
 
-- 📫 How to reach me **shivamkunwarcg@gmail.com**
+- 📫 How to reach me **shivamjsrcg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/1971kunwarshivam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="1971kunwarshivam" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamkunwarcg&show_icons=true&locale=en&layout=compact" alt="shivamkunwarcg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamjsrcg&show_icons=true&locale=en&layout=compact" alt="shivamjsrcg" /></p>
