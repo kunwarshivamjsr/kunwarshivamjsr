@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamjsrcg&label=Profile%20views&color=0e75b6&style=flat" alt="shivamjsrcg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamjsrcg" alt="shivamjsrcg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=shivamjsrcg](https://media.licdn.com/dms/image/v2/D5603AQGe98k4HGVvfw/profile-displayphoto-scale_200_200/B56ZyNcPxhKoAc-/0/1771899520072?e=2147483647&v=beta&t=wwlnAdGhDgtmaU31aUdjlSxrmeo-pYCJdmVGbr_jOZI)" alt="shivamjsrcg" /></a> </p>
 
 - 🔭 I’m currently working on [MESSMATE](https://github.com/kunwarshivamjsr/MESSMATE) and [RoomKhidki](https://github.com/kunwarshivamjsr/RoomKhidki)
 
